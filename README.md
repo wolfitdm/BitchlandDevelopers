@@ -6,3 +6,4 @@
 4. git clone https://github.com/wolfitdm/BitchlandCheatConsoleBepInEx(https://github.com/wolfitdm/BitchlandCheatConsoleBepInEx
 5. Put Bitchland Data\Assembly-Csharp.dll to the lib folder of the repo for example BitchlandCheatConsoleBepInEx\lib
 6. Download and Install [dotPeek: Free .NET Decompiler & Assembly Browser by JetBrains](https://www.jetbrains.com//decompiler/)
+7. Open Assembly-Csharp.dll
