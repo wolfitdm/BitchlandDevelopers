@@ -1,4 +1,4 @@
-# Bitchland Developers
+# Bitchland Mod Developers
 
 1. Download and install [Git - Install for Windows](https://git-scm.com/install/windows)
 2. Download and install [Download GitHub Desktop | GitHub Desktop](https://desktop.github.com/download/)
